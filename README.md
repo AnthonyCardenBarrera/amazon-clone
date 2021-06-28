@@ -1,2 +1,1 @@
-# Amazon-clone
-Amazon clone
+# Amazon-Web-App
